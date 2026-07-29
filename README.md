@@ -19,9 +19,6 @@ DAX (Data Analysis Expressions)
 Power Query
 
 
-The dataset used for this project can be accessed here:
-👉
-
 🎯 Objective
 
 To leverage data visualization and analytics to better understand accident trends and help in improving road safety strategies.
